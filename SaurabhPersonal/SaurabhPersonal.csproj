@@ -1,0 +1,63 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\css\style.css" />
+    <None Include="wwwroot\assets\images\avatar-1.png" />
+    <None Include="wwwroot\assets\images\avatar-2.png" />
+    <None Include="wwwroot\assets\images\avatar-3.png" />
+    <None Include="wwwroot\assets\images\avatar-4.png" />
+    <None Include="wwwroot\assets\images\blog-1.jpg" />
+    <None Include="wwwroot\assets\images\blog-2.jpg" />
+    <None Include="wwwroot\assets\images\blog-3.jpg" />
+    <None Include="wwwroot\assets\images\blog-4.jpg" />
+    <None Include="wwwroot\assets\images\blog-5.jpg" />
+    <None Include="wwwroot\assets\images\blog-6.jpg" />
+    <None Include="wwwroot\assets\images\icon-app.svg" />
+    <None Include="wwwroot\assets\images\icon-design.svg" />
+    <None Include="wwwroot\assets\images\icon-dev.svg" />
+    <None Include="wwwroot\assets\images\icon-photo.svg" />
+    <None Include="wwwroot\assets\images\icon-quote.svg" />
+    <None Include="wwwroot\assets\images\logo-1-color.png" />
+    <None Include="wwwroot\assets\images\logo-2-color.png" />
+    <None Include="wwwroot\assets\images\logo-3-color.png" />
+    <None Include="wwwroot\assets\images\logo-4-color.png" />
+    <None Include="wwwroot\assets\images\logo-5-color.png" />
+    <None Include="wwwroot\assets\images\logo-6-color.png" />
+    <None Include="wwwroot\assets\images\logo.ico" />
+    <None Include="wwwroot\assets\images\logo.svg" />
+    <None Include="wwwroot\assets\images\my-avatar.png" />
+    <None Include="wwwroot\assets\images\project-1.jpg" />
+    <None Include="wwwroot\assets\images\project-2.png" />
+    <None Include="wwwroot\assets\images\project-3.jpg" />
+    <None Include="wwwroot\assets\images\project-4.png" />
+    <None Include="wwwroot\assets\images\project-5.png" />
+    <None Include="wwwroot\assets\images\project-6.png" />
+    <None Include="wwwroot\assets\images\project-7.png" />
+    <None Include="wwwroot\assets\images\project-8.jpg" />
+    <None Include="wwwroot\assets\images\project-9.png" />
+    <None Include="wwwroot\assets\js\script.js" />
+    <None Include="wwwroot\website-demo-image\desktop.png" />
+    <None Include="wwwroot\website-demo-image\mobile.png" />
+    <None Include="wwwroot\website-demo-image\Thumbs.db" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.19" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.19">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.19" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.19">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
