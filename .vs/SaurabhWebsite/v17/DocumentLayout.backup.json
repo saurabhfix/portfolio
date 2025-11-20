@@ -78,8 +78,7 @@
               "RelativeToolTip": "SaurabhPersonal\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAewAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T12:55:59.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T12:55:59.888Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "SaurabhPersonal\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T12:57:47.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T12:57:47.261Z"
             },
             {
               "$type": "Document",
@@ -104,21 +102,19 @@
               "RelativeToolTip": "SaurabhPersonal\\Properties\\launchSettings.json",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-17T12:52:57.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T12:52:57.102Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SaurabhPersonal",
+              "Title": "SaurabhPersonal.csproj",
               "DocumentMoniker": "E:\\Coursera\\SaurabhWebsite\\SaurabhPersonal\\SaurabhPersonal.csproj",
               "RelativeDocumentMoniker": "SaurabhPersonal\\SaurabhPersonal.csproj",
               "ToolTip": "E:\\Coursera\\SaurabhWebsite\\SaurabhPersonal\\SaurabhPersonal.csproj",
               "RelativeToolTip": "SaurabhPersonal\\SaurabhPersonal.csproj",
               "ViewState": "AgIAABMAAAAAAAAAAAArwBwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-17T12:52:16.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T12:52:16.679Z"
             },
             {
               "$type": "Document",
@@ -130,8 +126,7 @@
               "RelativeToolTip": "SaurabhPersonal\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-17T11:52:45.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T11:52:45.033Z"
             },
             {
               "$type": "Document",
@@ -143,8 +138,7 @@
               "RelativeToolTip": "SaurabhPersonal\\vcard-personal-portfolio-master\\index.html",
               "ViewState": "AgIAAJUEAAAAAAAAAAAgwLAEAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-08T14:53:03.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T14:53:03.596Z"
             },
             {
               "$type": "Document",
@@ -156,8 +150,7 @@
               "RelativeToolTip": "SaurabhPersonal\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T07:37:18.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T07:37:18.938Z"
             },
             {
               "$type": "Document",
@@ -169,8 +162,7 @@
               "RelativeToolTip": "SaurabhPersonal\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T07:37:07.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T07:37:07.35Z"
             },
             {
               "$type": "Document",
@@ -182,8 +174,7 @@
               "RelativeToolTip": "SaurabhPersonal\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T07:37:04.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T07:37:04.101Z"
             },
             {
               "$type": "Document",
@@ -195,8 +186,7 @@
               "RelativeToolTip": "SaurabhPersonal\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAEICAAAAAAAAAAAlwFECAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T07:09:45.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T07:09:45.833Z"
             },
             {
               "$type": "Document",
@@ -206,7 +196,7 @@
               "RelativeDocumentMoniker": "SaurabhPersonal\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\Coursera\\SaurabhWebsite\\SaurabhPersonal\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SaurabhPersonal\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T07:09:38.247Z",
               "EditorCaption": ""
@@ -221,8 +211,7 @@
               "RelativeToolTip": "SaurabhPersonal\\Controllers\\ContactController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T12:24:24.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T12:24:24.792Z"
             },
             {
               "$type": "Document",
@@ -234,8 +223,7 @@
               "RelativeToolTip": "SaurabhPersonal\\Models\\Contact.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAIA/wAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T19:24:19.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T19:24:19.356Z"
             },
             {
               "$type": "Document",
@@ -247,8 +235,7 @@
               "RelativeToolTip": "SaurabhPersonal\\Views\\Contact\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-06T19:22:20.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T19:22:20.756Z"
             }
           ]
         }
